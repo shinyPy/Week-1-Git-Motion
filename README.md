@@ -2,10 +2,5 @@
 just on hands git
 
 
-## testing
-aaaaa
-
-## again?
-
-
-## hahahaah conflict go brr
+# Summary
+learning basic git such as commit, push, fetch, pull and branching and logging.
